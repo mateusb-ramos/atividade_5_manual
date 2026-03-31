@@ -8,3 +8,6 @@ JavaScript, HTML e CSS são fundamentais para o desenvolvimento web. O HTML é u
 Podemos incorporar JavaScript em um documento HTML usando a tag <script></script> dentro do <head> ou <body> ou podemos colocar link de arquivos JS externos usando a tag <script src="script.js"></script> e podemos também inserir códigos JS diretamente dentro de tags HTML usando o atributo onclick, onload, etc.
 
 # O que é uma variável
+
+
+PARTE DA LARA
