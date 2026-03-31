@@ -1,6 +1,6 @@
-var nome = "Mateus"; //Nova variável
+var nome = "Mateus"; //variável
 console.log(nome); //Saída: Mateus
-//cria uma variável que pode ser usada em várias partes do código.
+//cria uma variável.
 //--------------------------------------------------------------------------------------------------------------------
 
 let idade = 16;
@@ -10,7 +10,7 @@ console.log(idade);
 
 const pi = 3.14;
 console.log(pi);
-//cria uma constante, ou seja, o valor não pode ser alterado depois.
+//cria uma constante (valor não pode ser alterado depois.)
 //--------------------------------------------------------------------------------------------------------------------
 var mensagem = "Olá";
 
@@ -27,7 +27,7 @@ if (true) {
 }
 
 console.log(numero); 
-// Erro: a variável foi criada com "let" dentro do bloco e não existe fora dele.
+// variável foi criada com "let" dentro do bloco e não existe fora dele.
 //--------------------------------------------------------------------------------------------------------------------
 
 if (true) {
